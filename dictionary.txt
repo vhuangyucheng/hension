@@ -8,7 +8,8 @@ cid：报废
 工单：条形码大码小码，前面跟日期的是货的批号
 Aio：修了几次的
 diode,d :二极管
-L：电感
+L inductance：电感
 R：电阻
 c：电容
 q：mos管，
+h: hold
