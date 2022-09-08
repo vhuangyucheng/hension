@@ -13,3 +13,4 @@ R：电阻
 c：电容
 q：mos管，
 h: hold
+dc：直流电
