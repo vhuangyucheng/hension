@@ -14,7 +14,9 @@ c：电容
 q：mos管，
 h: hold
 dc：直流电
-vdd：电源正极高电位
+vcc：接入电路的电压。
+vdd：电源正极高电位，工作电压
 vss：电源负极低电位
+vee：负电压供电
 pmos：positive mos 电压正相关
 nmos：negative mos 电压负相关
