@@ -16,3 +16,5 @@ h: hold
 dc：直流电
 vdd：电源正极高电位
 vss：电源负极低电位
+pmos：positive mos 电压正相关
+nmos：negative mos 电压负相关
