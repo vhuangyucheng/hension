@@ -6,14 +6,15 @@
 -------------JOAN
 
 
-
+------------USJZN90005------------------
+211299015106242
 
 ------------USJZN90028------------------
 
 220196970500562  found angel
 
 ------------USJZN90032------------------
-210687055200351 NOT FOUND 12V short  pass
+210687055200351 NOT FOUND 12V short  pass FINAL, TYPE ERROR
 
 220197336000154 NOT FOUND CID
  
@@ -24,5 +25,8 @@
 
 210788698200240  NOT FOUND 12v short not final
 
-	220300261700019  NOT FOUND OK fail to final
+220300261700019  NOT FOUND OK fail to final
+	
+------------USJZN90037------------------
+210991510537940 TYPE ERROR
 
