@@ -20,3 +20,4 @@ vss：电源负极低电位
 vee：负电压供电
 pmos：positive mos 电压正相关
 nmos：negative mos 电压负相关
+10.1.10.71
